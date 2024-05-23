@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|c:\\users\\kama\\onedrive\\bureau\\transportationaccountingsystem\\transportationaccountingsystemwfa\\forms\\passengervehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|solutionrelative:transportationaccountingsystemwfa\\forms\\passengervehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|c:\\users\\kama\\onedrive\\bureau\\transportationaccountingsystem\\transportationaccountingsystemwfa\\forms\\cargovehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|solutionrelative:transportationaccountingsystemwfa\\forms\\cargovehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|c:\\users\\kama\\onedrive\\bureau\\transportationaccountingsystem\\transportationaccountingsystemwfa\\forms\\cargopassengervehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|solutionrelative:transportationaccountingsystemwfa\\forms\\cargopassengervehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|c:\\users\\kama\\onedrive\\bureau\\transportationaccountingsystem\\transportationaccountingsystemwfa\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|solutionrelative:transportationaccountingsystemwfa\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|c:\\users\\kama\\onedrive\\bureau\\transportationaccountingsystem\\transportationaccountingsystemwfa\\repositories\\implementations\\cargovehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|solutionrelative:transportationaccountingsystemwfa\\repositories\\implementations\\cargovehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|c:\\users\\kama\\onedrive\\bureau\\transportationaccountingsystem\\transportationaccountingsystemwfa\\repositories\\implementations\\passengervehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|solutionrelative:transportationaccountingsystemwfa\\repositories\\implementations\\passengervehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|c:\\users\\kama\\onedrive\\bureau\\transportationaccountingsystem\\transportationaccountingsystemwfa\\repositories\\implementations\\cargopassengervehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|solutionrelative:transportationaccountingsystemwfa\\repositories\\implementations\\cargopassengervehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\transportationaccountingsystemwfa\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|solutionrelative:transportationaccountingsystemwfa\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\transportationaccountingsystemwfa\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|solutionrelative:transportationaccountingsystemwfa\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\transportationaccountingsystemwfa\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC7A7BC-14BF-4175-9C09-3E1B8A99EC6D}|TransportationAccountingSystemWFA\\TransportationAccountingSystemWFA.csproj|solutionrelative:transportationaccountingsystemwfa\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassengerVehicleForm.cs",
+              "DocumentMoniker": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Forms\\PassengerVehicleForm.cs",
+              "RelativeDocumentMoniker": "TransportationAccountingSystemWFA\\Forms\\PassengerVehicleForm.cs",
+              "ToolTip": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Forms\\PassengerVehicleForm.cs",
+              "RelativeToolTip": "TransportationAccountingSystemWFA\\Forms\\PassengerVehicleForm.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:05:51.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CargoVehicleForm.cs",
+              "DocumentMoniker": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Forms\\CargoVehicleForm.cs",
+              "RelativeDocumentMoniker": "TransportationAccountingSystemWFA\\Forms\\CargoVehicleForm.cs",
+              "ToolTip": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Forms\\CargoVehicleForm.cs",
+              "RelativeToolTip": "TransportationAccountingSystemWFA\\Forms\\CargoVehicleForm.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAMwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:05:39.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CargoPassengerVehicleForm.cs",
+              "DocumentMoniker": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Forms\\CargoPassengerVehicleForm.cs",
+              "RelativeDocumentMoniker": "TransportationAccountingSystemWFA\\Forms\\CargoPassengerVehicleForm.cs",
+              "ToolTip": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Forms\\CargoPassengerVehicleForm.cs",
+              "RelativeToolTip": "TransportationAccountingSystemWFA\\Forms\\CargoPassengerVehicleForm.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAhwCgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:03:56.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CargoPassengerVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Repositories\\Implementations\\CargoPassengerVehicleRepository.cs",
+              "RelativeDocumentMoniker": "TransportationAccountingSystemWFA\\Repositories\\Implementations\\CargoPassengerVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Repositories\\Implementations\\CargoPassengerVehicleRepository.cs",
+              "RelativeToolTip": "TransportationAccountingSystemWFA\\Repositories\\Implementations\\CargoPassengerVehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:03:00.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "TransportationAccountingSystemWFA\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "TransportationAccountingSystemWFA\\Entities\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:01:48.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PassengerVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Repositories\\Implementations\\PassengerVehicleRepository.cs",
+              "RelativeDocumentMoniker": "TransportationAccountingSystemWFA\\Repositories\\Implementations\\PassengerVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Repositories\\Implementations\\PassengerVehicleRepository.cs",
+              "RelativeToolTip": "TransportationAccountingSystemWFA\\Repositories\\Implementations\\PassengerVehicleRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwC8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:53:16.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CargoVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Repositories\\Implementations\\CargoVehicleRepository.cs",
+              "RelativeDocumentMoniker": "TransportationAccountingSystemWFA\\Repositories\\Implementations\\CargoVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Repositories\\Implementations\\CargoVehicleRepository.cs",
+              "RelativeToolTip": "TransportationAccountingSystemWFA\\Repositories\\Implementations\\CargoVehicleRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:52:33.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "TransportationAccountingSystemWFA\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Entities\\City.cs",
+              "RelativeToolTip": "TransportationAccountingSystemWFA\\Entities\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:41:26.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Entities\\Route.cs",
+              "RelativeDocumentMoniker": "TransportationAccountingSystemWFA\\Entities\\Route.cs",
+              "ToolTip": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Entities\\Route.cs",
+              "RelativeToolTip": "TransportationAccountingSystemWFA\\Entities\\Route.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:17:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "TransportationAccountingSystemWFA\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\KAMA\\OneDrive\\Bureau\\TransportationAccountingSystem\\TransportationAccountingSystemWFA\\Services\\ReportService.cs",
+              "RelativeToolTip": "TransportationAccountingSystemWFA\\Services\\ReportService.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwE4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:59:00.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
